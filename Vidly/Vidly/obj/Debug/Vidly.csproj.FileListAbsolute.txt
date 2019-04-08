@@ -73,8 +73,8 @@ E:\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 E:\Vidly\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
 E:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 E:\Vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
 E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
