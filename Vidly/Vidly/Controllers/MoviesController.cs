@@ -17,7 +17,7 @@ namespace Vidly.Controllers
             return View(movies);
         }
 
-        private IEnumerable<Movie> GetMovie()
+        private List<Movie> GetMovie()
         {
             return new List<Movie>
             {
